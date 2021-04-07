@@ -1,3 +1,4 @@
 ENTRY A
 ENTRY B
 MISTAKE
+ENTRY C (Through Git huv)
